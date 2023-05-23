@@ -1,6 +1,6 @@
 * {margin: 0; padding: 0; border: 0; outline: none;}
 body {
-	background-color: #5a4f49;
+	background-color: blue;
 	color: #eeeeee;
 	font-family: "Courier New", monospace;
 }
@@ -66,7 +66,7 @@ body {
 					padding: 0 3px;
 					text-decoration: none;
 					background-color: #add3d3;
-					color: #5a4f49;
+					color: #614dab;
 				}
 				.main-section ul li {
 					margin: 7px 0;
